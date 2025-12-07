@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-black text-white;
+}
+
+html,
+body {
+  background-color: #000000; /* pure black */
+  color: white; /* default text color */
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; /* optional */
+}
